@@ -7,7 +7,7 @@ back-compat alias too).
 ## Install
 
 ```sh
-eselect repository add roger git https://github.com/rogerai-fyi/gentoo-overlay.git
+eselect repository add roger git https://github.com/rogerai-fm/gentoo-overlay.git
 emerge --sync roger
 
 # roger-bin is ~arch and ships under the source-available PolyForm Perimeter license:
